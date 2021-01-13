@@ -1,6 +1,12 @@
+import { ESButton } from "@es/components/elements"
+import { ESComponents } from "@es/components/templates"
 const Home = () => {
   return (
-    <h1>Hello world</h1>
+    <>
+      <ESComponents>
+        <ESButton />
+      </ESComponents>
+    </>
   )
 }
 

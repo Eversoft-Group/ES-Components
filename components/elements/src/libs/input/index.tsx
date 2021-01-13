@@ -1,6 +1,13 @@
+import { FormControl } from "react-bootstrap"
+
 const ESInput = () => {
     return (
-        <input name="input" />
+        <FormControl
+            placeholder="Username"
+            aria-label="Username"
+            aria-describedby="basic-addon1"
+            onClick={() => {}}
+        />
     )
 }
 
