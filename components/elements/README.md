@@ -1,0 +1,3 @@
+### ELEMENTS
+
+> This directory contains all the basic building blocks for your app. For example a button or a headline component.

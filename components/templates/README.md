@@ -1,0 +1,3 @@
+### TEMPLATES
+
+> In the templates directory, you should place all your page templates which are then called from your Next.js specific pages. You can find an example of this pattern in the Repository.

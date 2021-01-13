@@ -1,0 +1,3 @@
+### MODULES
+
+> Create all your components here which are more than a basic building block. This could be a header or a footer component. Most likely those modules are built out of multiple elements.
